@@ -12,7 +12,7 @@
 	<artifactId>numbers-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>numbers-api</name>
-	<description>Exercício Avaliativo - API Números</description>
+	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
